@@ -1,0 +1,10 @@
+{
+  "name": "onethu-theme-barbie",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "OneTHU 主题插件示例：芭比粉",
+  "scripts": {
+    "test": "node test.mjs"
+  }
+}
