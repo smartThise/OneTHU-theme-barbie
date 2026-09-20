@@ -10,7 +10,7 @@
 
 ---
 
-**barbie 是 [OneTHU](https://github.com/smartThise/OneTHU) 的官方主题插件示例。**
+**barbie 是 [OneTHU](https://onethu.github.io/) 的官方主题插件示例。**
 
 [OneTHU](https://github.com/smartThise/OneTHU) 是清华校园套件：统一身份、统一数据层、统一界面，覆盖 macOS / Windows / Android。
 本仓库演示主题插件的完整形态（配色令牌、品牌标识、附加 CSS、形状令牌），可直接作为新主题的模板。
@@ -52,6 +52,7 @@ OneTHU → 插件 → 安装面板「GitHub 仓库」输入 `smartThise/OneTHU-t
 | 仓库 | 说明 |
 |---|---|
 | [OneTHU](https://github.com/smartThise/OneTHU) | 主程序：macOS / Windows / Android 三端与全部文档 |
+| [官网 onethu.github.io](https://onethu.github.io/) | 功能总览 · 插件市场（实时）· 设计令牌 · 下载 |
 | [OneTHU-Market](https://github.com/smartThise/OneTHU-Market) | 插件市场名单（人工审查收录社区插件） |
 | [OneTHU-plugin-hello](https://github.com/smartThise/OneTHU-plugin-hello) | 另一个官方示例：插件能力全景 |
 | [OneTHU-Harness](https://github.com/smartThise/OneTHU-Harness) | 内置 Rust 骨干插件：大模型对话助手 |
