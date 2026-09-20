@@ -6,5 +6,6 @@
   "description": "OneTHU 主题插件示例：芭比粉",
   "scripts": {
     "test": "node test.mjs"
-  }
+  },
+  "license": "MIT"
 }
